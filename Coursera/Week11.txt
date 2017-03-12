@@ -1,0 +1,10 @@
+Application Example: Photo OCR
+Identifying and recognizing objects, words, and digits in an image is a challenging task. We discuss how a pipeline can be built to tackle this problem and how to analyze and improve the performance of such a system.  
+5 videos, 1 reading
+Video: Problem Description and Pipeline
+Video: Sliding Windows
+Video: Getting Lots of Data and Artificial Data
+Video: Ceiling Analysis: What Part of the Pipeline to Work on Next
+Reading: Lecture Slides
+Video: Summary and Thank You
+Graded: Application: Photo OCR

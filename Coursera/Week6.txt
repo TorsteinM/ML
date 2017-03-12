@@ -1,0 +1,33 @@
+Advice for Applying Machine Learning
+Applying machine learning in practice is not always straightforward. In this module, we share best practices for applying machine learning in practice, and discuss the best ways to evaluate performance of the learned models.  
+7 videos, 7 readings
+Video: Deciding What to Try Next
+Video: Evaluating a Hypothesis
+Reading: Evaluating a Hypothesis
+Video: Model Selection and Train/Validation/Test Sets
+Reading: Model Selection and Train/Validation/Test Sets
+Video: Diagnosing Bias vs. Variance
+Reading: Diagnosing Bias vs. Variance
+Video: Regularization and Bias/Variance
+Reading: Regularization and Bias/Variance
+Video: Learning Curves
+Reading: Learning Curves
+Video: Deciding What to Do Next Revisited
+Reading: Deciding What to do Next Revisited
+Reading: Lecture Slides
+Discussion Prompt: Summarize this Lesson (Advice for Applying Machine Learning)
+Programming: Regularized Linear Regression and Bias/Variance
+Graded: Advice for Applying Machine Learning
+
+Machine Learning System Design
+To optimize a machine learning algorithm, you’ll need to first understand where the biggest improvements can be made. In this module, we discuss how to understand the performance of a machine learning system with multiple parts, and also how to deal with skewe... More
+5 videos, 3 readings
+Video: Prioritizing What to Work On
+Reading: Prioritizing What to Work On
+Video: Error Analysis
+Reading: Error Analysis
+Video: Error Metrics for Skewed Classes
+Video: Trading Off Precision and Recall
+Video: Data For Machine Learning
+Reading: Lecture Slides
+Graded: Machine Learning System Design

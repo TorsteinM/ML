@@ -1,0 +1,26 @@
+Anomaly Detection
+Given a large number of data points, we may sometimes want to figure out which ones vary significantly from the average. For example, in manufacturing, we may want to detect defects or anomalies. We show how a dataset can be modeled using a Gaussian distributi... More
+8 videos, 1 reading
+Video: Problem Motivation
+Video: Gaussian Distribution
+Video: Algorithm
+Video: Developing and Evaluating an Anomaly Detection System
+Video: Anomaly Detection vs. Supervised Learning
+Video: Choosing What Features to Use
+Video: Multivariate Gaussian Distribution
+Video: Anomaly Detection using the Multivariate Gaussian Distribution
+Reading: Lecture Slides
+Graded: Anomaly Detection
+
+Recommender Systems
+When you buy a product online, most websites automatically recommend other products that you may like. Recommender systems look at patterns of activities between different users and different products to produce these recommendations. In this module, we introduce recommender algorithms such as the collaborative filtering algorithm and low-rank matrix factorization.
+6 videos, 1 reading
+Video: Problem Formulation
+Video: Content Based Recommendations
+Video: Collaborative Filtering
+Video: Collaborative Filtering Algorithm
+Video: Vectorization: Low Rank Matrix Factorization
+Video: Implementational Detail: Mean Normalization
+Reading: Lecture Slides
+Programming: Anomaly Detection and Recommender Systems
+Graded: Recommender Systems

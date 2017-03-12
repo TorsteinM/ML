@@ -1,0 +1,52 @@
+Introduction
+Welcome to Machine Learning! In this module, we introduce the core idea of teaching a computer to learn concepts using data—without being explicitly programmed. The Course Wiki is under construction. Please visit the resources tab for the most complete and up-... More
+4 videos, 10 readings
+Video: Welcome to Machine Learning!
+Reading: Machine Learning Honor Code
+Video: Welcome
+Reading: What is Machine Learning?
+Reading: How to Use Discussion Forums
+Video: Supervised Learning
+Reading: Supervised Learning
+Video: Unsupervised Learning
+Reading: Unsupervised Learning
+Reading: Who are Mentors?
+Reading: Get to Know Your Classmates
+Reading: Frequently Asked Questions
+Reading: Lecture Slides
+Reading: Machine Learning Course Wiki
+Graded: Introduction
+
+
+Linear Regression with One Variable
+Linear regression predicts a real-valued output based on an input value. We discuss the application of linear regression to housing price prediction, present the notion of a cost function, and introduce the gradient descent method for learning. 
+7 videos, 8 readings
+Video: Model Representation
+Reading: Model Representation
+Video: Cost Function
+Reading: Cost Function
+Video: Cost Function - Intuition I
+Reading: Cost Function - Intuition I
+Video: Cost Function - Intuition II
+Reading: Cost Function - Intuition II
+Video: Gradient Descent
+Reading: Gradient Descent
+Video: Gradient Descent Intuition
+Reading: Gradient Descent Intuition
+Video: Gradient Descent For Linear Regression
+Reading: Gradient Descent For Linear Regression
+Reading: Lecture Slides
+Graded: Linear Regression with One Variable
+
+
+Linear Algebra Review
+This optional module provides a refresher on linear algebra concepts. Basic understanding of linear algebra is necessary for the rest of the course, especially as we begin to cover models with multiple variables. 
+6 videos, 1 reading, 1 reading
+Video: Matrices and Vectors
+Video: Addition and Scalar Multiplication
+Video: Matrix Vector Multiplication
+Video: Matrix Matrix Multiplication
+Video: Matrix Multiplication Properties
+Video: Inverse and Transpose
+Reading: Lecture Slides
+Practice Quiz: Linear Algebra

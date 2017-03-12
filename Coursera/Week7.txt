@@ -1,0 +1,12 @@
+Support Vector Machines
+Support vector machines, or SVMs, is a machine learning algorithm for classification. We introduce the idea and intuitions behind SVMs and discuss how to use it in practice.  
+6 videos, 1 reading
+Video: Optimization Objective
+Video: Large Margin Intuition
+Video: Mathematics Behind Large Margin Classification
+Video: Kernels I
+Video: Kernels II
+Video: Using An SVM
+Reading: Lecture Slides
+Programming: Support Vector Machines
+Graded: Support Vector Machines

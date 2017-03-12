@@ -1,0 +1,11 @@
+Large Scale Machine Learning
+Machine learning works best when there is an abundance of data to leverage for training. In this module, we discuss how to apply the machine learning algorithms with large datasets. 
+6 videos, 1 reading
+Video: Learning With Large Datasets
+Video: Stochastic Gradient Descent
+Video: Mini-Batch Gradient Descent
+Video: Stochastic Gradient Descent Convergence
+Video: Online Learning
+Video: Map Reduce and Data Parallelism
+Reading: Lecture Slides
+Graded: Large Scale Machine Learning

@@ -1,0 +1,25 @@
+Unsupervised Learning
+We use unsupervised learning to build models that help us understand our data better. We discuss the k-Means algorithm for clustering that enable us to learn groupings of unlabeled data points. 
+5 videos, 1 reading
+Video: Unsupervised Learning: Introduction
+Video: K-Means Algorithm
+Video: Optimization Objective
+Video: Random Initialization
+Video: Choosing the Number of Clusters
+Reading: Lecture Slides
+Graded: Unsupervised Learning
+
+
+Dimensionality Reduction
+In this module, we introduce Principal Components Analysis, and show how it can be used for data compression to speed up learning algorithms as well as for visualizations of complex datasets.  
+7 videos, 1 reading
+Video: Motivation I: Data Compression
+Video: Motivation II: Visualization
+Video: Principal Component Analysis Problem Formulation
+Video: Principal Component Analysis Algorithm
+Video: Reconstruction from Compressed Representation
+Video: Choosing the Number of Principal Components
+Video: Advice for Applying PCA
+Reading: Lecture Slides
+Programming: K-Means Clustering and PCA
+Graded: Principal Component Analysis
