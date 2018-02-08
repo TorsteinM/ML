@@ -1,6 +1,0 @@
-Andrew Ng. Coursera,https://www.youtube.com/watch?v=qeHZOdmJvFU&index=1&list=PLVJA7edNhnRTYqqW5zIj0gkVmxWnkXqTP
-CS50 Machine Learning lecture,https://www.youtube.com/watch?v=dgt6IfEXgDk
-Google:Machine Learning,https://www.google.com/search?q=machine+learning
-Google:Machine Learning:Deep learning,https://www.google.com/search?q=machine+deep+learning
-K-Means clustering,https://www.youtube.com/watch?v=mfqmoUN-Cuw
-Gaussian Mixture Models and EM,https://www.youtube.com/watch?v=qMTuMa86NzU
